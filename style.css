@@ -5,8 +5,8 @@
 
 
 header{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtlMpIjR8W1bturIJnGWtLRayT4CfJPG34cw&s");
-    height: 100px;
+    background-image: url("https://t4.ftcdn.net/jpg/06/45/15/59/360_F_645155926_QCLAaHGxUN9zw5qOnS2VPb8AW5mXrsgD.jpg");
+    height: 70px;
     text-align: center;
     color: white;
     font-family: sans-serif;
@@ -22,6 +22,10 @@ header{
 }
 
 body{
-    background-image: url("https://wallpapers4screen.com/Uploads/7-4-2025/72304/thumb2-palmeiras-logo-4k-green-white-background-carbon-art-palmeiras-emblem.jpg");
+    background-image: url("https://www.cortado.com/wp-content/uploads/home-hero-overlay.svg");
     background-size: cover;
+}
+
+.chamada{
+
 }

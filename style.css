@@ -4,19 +4,9 @@
 }
 
 body{
-    background-image: url("https://www.agorasudoeste.com.br/hd-imagens/noticias/kid-bengala-08.jpg");
-    height: 5000px;
 }
 
-.a{
-    width: 1000px;
-    height: 1000px;
-}
 
-.b{
-    width: 1100px;
-    height: 1100px;
-}
 header {
     font-size: 25px;
     background-color: rgb(0, 89, 255);

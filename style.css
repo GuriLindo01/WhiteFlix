@@ -57,5 +57,6 @@ img {
     font-weight: 400;
     font-style: normal;
     background-color: blue;
-    padding-top: 30px;
+    padding-top: 10px;
+    margin-bottom: 10px;
 }

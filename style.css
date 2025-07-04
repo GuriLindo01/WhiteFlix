@@ -37,7 +37,9 @@ img {
 }
 
 .categoria-videos {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 400;
+    font-style: normal;
     display: flex;
     overflow-x: auto;
     gap: 10px;

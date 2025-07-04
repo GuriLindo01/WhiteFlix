@@ -1,38 +1,42 @@
-header{
-background-color: rgb(190, 190, 190);
-font-family: "Manufacturing Consent", system-ui;
-font-weight: 400;
-font-style: normal;
-color: crimson;
-font-size: 30px;
-border-bottom: solid 2px black;
-padding: 2px;
+*{
+    margin: 0;
+    padding: 0;
 }
 
-*{
-margin: 0px;
-padding: 0px;
+header{
+    font-size: 25px;
+    background-color: rgb(0, 89, 255);
+    font-family: "Bebas Neue", sans-serif; 
+    color: white;
+    border-bottom: solid 4px black;
+    margin: 0;
+    padding: 20px;
+    
 }
 
 body{
-background-image: url(https://img.freepik.com/fotos-premium/fundo-vermelho-abstrato-para-modelos-de-web-design-e-estudio-de-produtos-com-cor-de-gradiente-suave_570543-5820.jpg?semt=ais_hybrid&w=740);
-background-size: cover;
-color: white;
+    background-color: rgb(51, 139, 255);
 }
 
 .chamada{
-display: flex;
-justify-content: center;
-background-color: rgb(41, 39, 39);
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-image: linear-gradient(rgb(0, 216, 223), black);
 }
 
 .chamada-texto{
-margin-right: 10%;
+    margin-right: 5%;
+    font-weight: "Bebas Neue", sans-serif; 
+}
+
+img{
+    height: 200px;
 }
 
 .categoria-videos{
-display: flex;
-overflow: auto;
-width: 100%;
-gap: 8px;
+    font-weight: "Bebas Neue", sans-serif; 
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }

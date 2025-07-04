@@ -1,32 +1,38 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-
 header{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMG3RBmXoQUXBYdnghc6CJ2hL2akRUWg9iA&s");
-    height: 70px;
-    text-align: center;
-    color: white;
-    font-family: sans-serif;
-    font-size: 16px;
-    padding: 5px;
-    background-size: cover;
+background-color: rgb(190, 190, 190);
+font-family: "Manufacturing Consent", system-ui;
+font-weight: 400;
+font-style: normal;
+color: crimson;
+font-size: 30px;
+border-bottom: solid 2px black;
+padding: 2px;
 }
 
-.titulo{
-    text-align: center;
-    font-family: sans-serif;
-    font-size: 16px;
+*{
+margin: 0px;
+padding: 0px;
 }
 
 body{
-    background-image: url("https://www.cortado.com/wp-content/uploads/home-hero-overlay.svg");
-    background-size: cover;
+background-image: url(https://img.freepik.com/fotos-premium/fundo-vermelho-abstrato-para-modelos-de-web-design-e-estudio-de-produtos-com-cor-de-gradiente-suave_570543-5820.jpg?semt=ais_hybrid&w=740);
+background-size: cover;
+color: white;
 }
 
 .chamada{
-    display: flex;
-    justify-content: center;
+display: flex;
+justify-content: center;
+background-color: rgb(41, 39, 39);
+}
+
+.chamada-texto{
+margin-right: 10%;
+}
+
+.categoria-videos{
+display: flex;
+overflow: auto;
+width: 100%;
+gap: 8px;
 }

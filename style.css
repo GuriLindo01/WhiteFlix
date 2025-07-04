@@ -35,7 +35,7 @@ img{
 }
 
 .categoria-videos{
-    font-weight: "Bebas Neue", sans-serif; 
+    font-family: "Bebas Neue", sans-serif; 
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -45,7 +45,7 @@ img{
     font-size: 30px;
     color: white;
     text-align: center;
-    font-family: sans-serif;
+    font-family: ;
     background-color: blue;
     padding: 10px;
 }

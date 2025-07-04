@@ -42,11 +42,9 @@ img{
 }
 
 .boasvindas{
-    font-size: 13px;
+    font-size: 18px;
     color: white;
     text-align: center;
     font-family: sans-serif;
     background-color: blue;
-    height: 100px;
-    width: 150px;
 }

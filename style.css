@@ -40,3 +40,11 @@ img{
     overflow-x: auto;
     gap: 10px;
 }
+
+.boasvindas{
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: blue;
+}
